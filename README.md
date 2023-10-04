@@ -23,7 +23,9 @@ Este é um desafio tecnico de ETL.
 #### Consulta 1
 
 #### Escreva uma query que retorna a quantidade de linhas na tabela Sales.SalesOrderDetail pelo campo SalesOrderID, desde que tenham pelo menos três linhas de detalhes.   
-   
+
+#### Query
+
 ```bash
 
 SELECT
@@ -44,7 +46,9 @@ HAVING
 
 #### Consulta 2
 
-#### Escreva uma query que ligue as tabelas Sales.SalesOrderDetail, Sales.SpecialOfferProduct e Production.Product e retorne os 3 produtos (Name) mais vendidos (pela soma de OrderQty), agrupados pelo número de dias para manufatura (DaysToManufacture).    
+#### Escreva uma query que ligue as tabelas Sales.SalesOrderDetail, Sales.SpecialOfferProduct e Production.Product e retorne os 3 produtos (Name) mais vendidos (pela soma de OrderQty), agrupados pelo número de dias para manufatura (DaysToManufacture).   
+
+#### Query
 
 ```bash
 
