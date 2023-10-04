@@ -17,6 +17,12 @@ Este é um desafio tecnico de ETL.
 ##### Docker facilita muito a solução pro banco de dados local, através de uma linha de comando é possível subir o container do nosso banco de dados, e usa pouquíssima memória.  
 ##### Spark é um ferramenta muito robusta e poderosa para manipulação de dados.    
 
+## Steps do desafio:
+
+- Leitura e transformação dos arquivos .csv da camada RAW para .parquet e carrega-los na camada TRUSTED.
+- Transforamação dos arquivos .parquet da camada TRUSTED e carrega-los na camada REFINED.
+- Carregamento dos dados da camada REFINED para o banco de dados postgres.
+- Realizar consultas no banco
 
 ## Consultas Realizadas no Banco de dados
 
