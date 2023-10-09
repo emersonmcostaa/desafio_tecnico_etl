@@ -111,6 +111,8 @@ https://dbeaver.io/download/
 
 ## Autor
 
-Emerson Monteiro da Costa
-https://github.com/emersonmcostaa
-https://www.linkedin.com/in/emersonmcostaa
+Emerson Monteiro da Costa  
+
+https://github.com/emersonmcostaa  
+
+https://www.linkedin.com/in/emersonmcostaa  
